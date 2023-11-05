@@ -1,0 +1,4 @@
+geoopt==0.5.0
+networkx==2.8.6
+numpy==1.21.5
+torch==1.12.1+cu116
