@@ -13,11 +13,12 @@ The massive amounts of online user behavior data on social networks allow for th
 Please cite us if you use our code. Thanks!
 
 ```latex
-@inproceedings{2023CIKM_RotDiff,
-    author = {Qiao, Hongliang and Feng, Shanshan and Li, Xutao and Lin, Huiwei and Hu, Han and Wei, Wei and Ye, Yunming},
-    title = {RotDiff: A Hyperbolic Rotation Representation Model for Information Diffusion Prediction},
-    year = {2023},
-    pages = {2065–2074}
+@inproceedings{CIKM2023_RotDiff,
+  title={RotDiff: A Hyperbolic Rotation Representation Model for Information Diffusion Prediction},
+  author={Qiao, Hongliang and Feng, Shanshan and Li, Xutao and Lin, Huiwei and Hu, Han and Wei, Wei and Ye, Yunming},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={2065--2074},
+  year={2023}
 }
 ```
 
