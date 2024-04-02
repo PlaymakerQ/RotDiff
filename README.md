@@ -1,7 +1,7 @@
 # RotDiff
 
 ## Introduction
-This is the source code for paper RotDiff in CIKM'23. All code is based on Python and PyTorch.
+This is the source code for paper RotDiff in CIKM'23. All code is implemented in Python and PyTorch.
 
 ## Abstract
 
